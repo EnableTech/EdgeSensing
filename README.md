@@ -1,6 +1,6 @@
 # EdgeSensing
 ## Software Setup
-Download library `SharpIR` by Giuseppe Masino (version 2.0.1 if available). This can either be done through the IDE or via Github[https://github.com/qub1750ul/Arduino_SharpIR]
+Download library `SharpIR` by Giuseppe Masino (version 2.0.1 if available). This can either be done through the IDE or via [Github](https://github.com/qub1750ul/Arduino_SharpIR)
 
 ## Hardware Setup
 ### SharpIR Sensor
